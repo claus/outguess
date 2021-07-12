@@ -1,3 +1,18 @@
+# Notes
+
+This is Outguess 0.2, quite heavily modified to
+- compile on my machine (macOS Big Sur)
+- run brute force attacks on keys
+
+It's mostly a personal playground for me, and in no way any official
+port or distribution or whatever. The code is quite a mess.
+
+If you want to play with Outguess, please use the official distribution:
+http://web.archive.org/web/20120421171548/http://www.outguess.org/download.php
+
+
+# Original README
+
 OutGuess 0.2
 --------------
 2001-02-12 - Niels Provos <provos@citi.umich.edu>
@@ -12,7 +27,7 @@ will be used as concrete example of data objects, though OutGuess can
 use any kind of data, as long as a handler is provided.
 
 OutGuess is available under the BSD software license.  It is
-completely free for any use including commercial.  
+completely free for any use including commercial.
 
 Please see each source file for its respective license.  OutGuess was
 developed in Germany.
@@ -110,9 +125,9 @@ Acknowledgments:
 OutGuess uses code from, attributions can also be found in the sources,
 
  Markus Kuhn's Stirmark software, see STIRMARK-README.
- 
+
  the Independent JPEG Group's JPEG software, see JPEG_README.
- 
+
  the Arc4 random number generator for OpenBSD, (c) 1996 by
  David Mazieres <dm@lcs.mit.edu>.
 
